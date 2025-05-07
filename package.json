@@ -1,0 +1,19 @@
+{
+  "name": "gioco-click-speed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrAndre46/Gioco-Click-Speed.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrAndre46/Gioco-Click-Speed/issues"
+  },
+  "homepage": "https://github.com/DrAndre46/Gioco-Click-Speed#readme"
+}
